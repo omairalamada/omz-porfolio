@@ -2,7 +2,7 @@
 
 ## a portfolio for developers
 
-![screenshot](https://user-images.githubusercontent.com/18350557/176953627-cd79fe83-0b84-4082-b79e-cc88da28f2e1.png)
+![screenshot](https://user-images.githubusercontent.com/67724946/210166188-ff713e15-f55c-4e30-9d64-49d881cb469b.PNG)
 
 [View Live Template](https://reactportfoliotemplate.paytonpierce.dev/) | [View Live Example](https://paytonpierce.dev/)
 
@@ -18,7 +18,7 @@
 
 💡 Perfect Lighthouse Score
 
-![screenshot of perfect lighthouse score](https://user-images.githubusercontent.com/67724946/210166188-ff713e15-f55c-4e30-9d64-49d881cb469b.PNG)
+![screenshot of perfect lighthouse score](https://user-images.githubusercontent.com/18350557/179609620-847374a6-23e6-4432-b7a8-181d7d9bf026.png)
 
 
 ---

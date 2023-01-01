@@ -1,9 +1,9 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
+// import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+// import mock3 from "../img/mock3.png"
+// import mock4 from "../img/mock4.png"
+// import mock5 from "../img/mock5.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -38,6 +38,10 @@ export const info = {
         {
             emoji: '🔎',
             text: 'Web3 | blockchain enthusiast'
+        },
+        {
+            emoji: '🏫',
+            text: 'Studied at Metacrafters Academy'
         },
         {
             emoji: '🌎',
@@ -78,11 +82,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Omair. You can call me omz for short. I am passionate in software engineering and computer networking. I have knowledge in understanding of Scrum methodology and agile practices in a software development process. I also have a strong web development background and have adequate latest technology skills used for software development.",
+    bio: "Hello! I'm Omair. I am passionate in software engineering and computer networking. I have knowledge in understanding of Scrum methodology and agile practices in a software development process. I also have a strong web development background and have adequate latest technology skills used for software development.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['TypeScript', 'JavaScript', 'Git', 'Bitbucket', 'Bootstrap', 'Html5', 'CSS', 'C++'],
+            exposedTo: ['NodeJS', 'NestJS', 'VueJs', 'Jira']
         }
     ,
     hobbies: [
@@ -106,35 +110,35 @@ export const info = {
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
+        // {
+        //     title: "Project 1",
+        //     live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+        //     source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+        //     image: mock1
+        // },
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
-        },
-        {
-            title: "Project 2",
+            title: "COMING SOON",
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
-        {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
-        },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
-        }
+        // {
+        //     title: "Project 3",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock3
+        // },
+        // {
+        //     title: "Project 4",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock4
+        // },
+        // {
+        //     title: "Project 5",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock5
+        // }
     ]
 }
