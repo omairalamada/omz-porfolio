@@ -1,5 +1,3 @@
-# React Portfolio
-
 ## Omz porfolio
 
 ## Features
