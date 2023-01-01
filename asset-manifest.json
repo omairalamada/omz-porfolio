@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/omz-porfolio/static/css/main.dc155879.css",
-    "main.js": "/omz-porfolio/static/js/main.40398936.js",
+    "main.js": "/omz-porfolio/static/js/main.6a71c461.js",
     "static/media/omz.png": "/omz-porfolio/static/media/omz.aa98a461e27a15501b12.png",
     "static/media/self.png": "/omz-porfolio/static/media/self.aee462936ba9b2cd418f.png",
     "static/media/mock2.png": "/omz-porfolio/static/media/mock2.e8ed2c07928dfdc15a79.png",
     "index.html": "/omz-porfolio/index.html",
     "main.dc155879.css.map": "/omz-porfolio/static/css/main.dc155879.css.map",
-    "main.40398936.js.map": "/omz-porfolio/static/js/main.40398936.js.map"
+    "main.6a71c461.js.map": "/omz-porfolio/static/js/main.6a71c461.js.map"
   },
   "entrypoints": [
     "static/css/main.dc155879.css",
-    "static/js/main.40398936.js"
+    "static/js/main.6a71c461.js"
   ]
 }
