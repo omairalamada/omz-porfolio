@@ -1,5 +1,7 @@
 ## Omz porfolio
 
+![screenshot](https://user-images.githubusercontent.com/67724946/210166188-ff713e15-f55c-4e30-9d64-49d881cb469b.PNG)
+
 ## Features
 
 🌑 Dark Mode Toggler
