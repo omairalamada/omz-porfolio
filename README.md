@@ -2,7 +2,7 @@
 
 ## Omz porfolio
 
-## features
+## Features
 
 🌑 Dark Mode Toggler
 
@@ -19,16 +19,16 @@
 
 ---
 
-## getting started
+## Fetting started
 
-### prerequisites
+### Prerequisites
 
 - have [Git](https://git-scm.com/) installed on your machine
 - have [Node.js](https://nodejs.org/en/download/) installed on your machine
 - basic familiarity with your machine's command line
 - basic understanding of JSON data outline (arrays of objects basically)
 
-## how to use
+## How to use
 
 - fork the repository and clone locally
 - run `npm install` to install dependencies
