@@ -18,7 +18,6 @@ const links = [
     },
     {
         name: info.initials,
-        type: 'initials',
         to: '/',
         active: 'home'
     },
