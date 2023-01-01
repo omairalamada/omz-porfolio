@@ -31,7 +31,7 @@ export default function BaseLayout() {
             <Grid item>
                <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                     py={'1.5rem'} sx={{opacity: 0.7}} width={'100%'}>
-                  <p> &hearts; <a href={'https://www.linkedin.com/in/omairmangondaya/'}>Omair Mangondaya</a></p>
+                  <p> <a href={'https://www.linkedin.com/in/omairmangondaya/'}>Omair Mangondaya</a></p>
                   <p>&copy; 2023</p>
                </Box>
             </Grid>
